@@ -1,3 +1,5 @@
+// bonus points
+
 public class JavaReviewExtra {
 
     public static void extra() {

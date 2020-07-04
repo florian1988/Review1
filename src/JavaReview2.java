@@ -1,3 +1,6 @@
+
+// for the criteria 4 and 5
+
 public class JavaReview2 {
 
     public static void square(){

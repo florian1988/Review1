@@ -1,3 +1,7 @@
+
+// for the criteria 1, 2, 3 and 5
+
+
 public class JavaReview1 {
 
     public static void RectArea(){

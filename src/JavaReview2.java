@@ -1,5 +1,5 @@
 public class JavaReview2 {
-    /*
+
     public static void square(){
         int width = 16;
         int area = width * width;
@@ -34,7 +34,7 @@ public class JavaReview2 {
 
     }
 
-     */
+
    
 
 }
